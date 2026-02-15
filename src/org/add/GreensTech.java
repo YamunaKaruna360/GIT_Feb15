@@ -8,6 +8,11 @@ public class GreensTech {
 	private void tc2() {
 		System.out.println("Class");
 	}
+
+	private void tc4() {
+		System.out.println("Address");
+
+	}
 	
 
 }
