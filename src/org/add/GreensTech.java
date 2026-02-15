@@ -5,5 +5,9 @@ public class GreensTech {
 	private void tc1() {
 		System.out.println("Name");
 	}
+	private void tc3() {
+		System.out.println("Subject");
+	}
+	
 
 }
